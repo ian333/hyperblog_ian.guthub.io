@@ -42,3 +42,10 @@ body
 {
     padding: 1em;
 }
+
+#footer
+{
+    background: linear-gradient(45deg, blue, red);
+    color: aqua;
+    text-align: center;
+}
